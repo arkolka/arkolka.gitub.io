@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Как создать блог с Jekyll на GitHub Pages"
-date: 2025-02-21
+date: 2025-02-21 12:00:00
 categories: Jekyll GitHub AI
 comments: true
 ---

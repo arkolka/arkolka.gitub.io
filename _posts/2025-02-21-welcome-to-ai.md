@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Добро пожаловать в блог про AI"
-date: 2025-02-21
+date: 2025-02-21 01:00:00
 categories: AI MachineLearning
 ---
 
