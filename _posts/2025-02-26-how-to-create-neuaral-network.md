@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Как обучить свою нейросеть: простой путь для новичков"
-date: 2025-02-23
+date: 2025-02-26
 categories: Jekyll GitHub AI
 comments: true
 ---
